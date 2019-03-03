@@ -1,0 +1,65 @@
+32
+1 shrine 1 1 across
+hallowed place
+1 stops 1 1 down
+halts
+2 interim 4 1 down
+meantime
+3 earn 6 1 down
+deserve
+4 mode 8 1 down
+fashion
+4 map 8 1 across
+travel guide
+5 arid 9 1 down
+parched
+6 pen 10 1 down
+female swan
+7 adore 6 2 across
+worship
+8 orator 1 3 across
+public speaker
+9 rut 2 3 down
+groove
+10 ace 3 3 down
+top card
+11 din 8 3 across
+clamour
+12 puce 1 4 across
+brownish-purple
+13 need 6 4 across
+require
+14 elegant 7 4 down 
+refined and luxurious
+15 stern 1 5 across
+part of ship
+16 beret 6 6 across
+headwear
+17 rat 8 6 down 
+rodent
+18 eve 9 6 down
+first women
+19 terms 10 6 down
+teaching periods
+20 rome 2 7 across
+eternal city
+20 rule 2 7 down
+govern
+21 odds 3 7 down 
+probability
+22 ecru 5 7 down
+unbleached linen
+23 gave 7 7 across
+donated
+24 bud 1 8 across
+rudimentary shoot
+24 bey 1 8 down
+Turkish governor
+25 crater 5 8 across
+mouth of a volcano
+26 elder 1 9 across
+church office holder
+27 yes 1 10 across
+acceptance
+28 utters 5 10 across
+speaks
